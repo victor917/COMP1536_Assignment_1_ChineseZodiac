@@ -1,0 +1,117 @@
+body {
+	width: 80%;
+	margin: auto;
+	font-family: Arial, Sans serif;
+	background-image: url("../Images/ChineseLion.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-color: #ba9900;
+}
+
+/* Background image source: https://www.vecteezy.com/vector-art/128789-vector-illustration-traditional-chinese-lion-dance-festival-background  */
+
+#all {
+	background-image: url("../Images/ContentBackground.png");
+	background-position: top center;
+	background-color: #910000;
+	border: 3px solid black;
+	border-radius: 30px;
+}
+
+header {
+	text-align: center;
+	margin: auto;
+	padding-top: 5px;
+}
+
+h1{
+	text-align: center;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 2px solid black;
+	border-radius: 30px;
+	background-image: url("../Images/DragonPattern.png");
+	background-position: center;
+	background-color: #ba9900;
+}
+
+h2, h3 {
+	margin: auto;
+	border: 2px solid black;
+	border-radius: 30px;
+	padding-left: 10px;
+	background-image: url("../Images/DragonPattern.png");
+	background-position: center;
+	background-color: #ba9900;
+}
+
+div p {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+nav {
+	background-color: #333333;
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+	text-align: center;
+}
+
+.links:hover {
+    background-color: #111111;
+}
+
+.image{
+	text-align: center;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+
+#homeimage {
+	padding-top: 20px;
+	text-align: center;
+}
+
+.content {
+	width: 80%;
+	margin:auto;
+}
+
+#gallery {
+	padding-bottom: 20px;
+}
+
+#gallery img:hover {
+	opacity: 0.5;
+}
+
+table {
+	margin-bottom: 30px;
+	background-color: white;
+	padding: 10px;
+}
+
+label {
+	font-weight: bold;
+	text-align: right;
+}
+
+footer {
+	border-top: 3px solid black;
+	border-bottom: 3px solid black;
+    padding: 1em;
+    color: white;
+    background-color: #333333;
+    clear: left;
+    text-align: center;
+	margin-bottom: 25px;
+}
+
+footer a {
+	color: white;
+}
+
+footer a:hover {
+	opacity: 0.5;
+}
