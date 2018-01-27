@@ -1,4 +1,5 @@
 # COMP1536_Assignment_1_ChineseZodiac
+Created by Victor Sze and Wilburt Herrera
 
 The first assignment for BCIT's COMP 1536 (Introduction to Web Development).
 
